@@ -1,7 +1,7 @@
 # Struktur Dasar ======================================================================================
-if kondisi:
+# if kondisi:
     # dijalankan jika True
-elif kondisi_lain:
+# elif kondisi_lain:
     # opsional
-else:
+# else:
     # dijalankan jika semua False

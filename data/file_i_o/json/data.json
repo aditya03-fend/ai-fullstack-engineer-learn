@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nama": "Laptop",
+    "stok": 5,
+    "harga": 15000000
+  },
+  {
+    "id": 2,
+    "nama": "Mouse",
+    "stok": 10,
+    "harga": 150000
+  }
+]
